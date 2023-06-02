@@ -1,0 +1,6 @@
+.vscode/
+.vscode
+venv/
+venv
+Dockerfile
+__pycache__/
